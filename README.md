@@ -34,7 +34,7 @@
 <img align="left" alt="MySQL" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="MongoDB" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="Git" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" />
-<img align="left" alt="GitHub" width="36px" height="29px"  src="https://www.sferalabs.cc/wp-content/uploads/github-logo-white.png" />
+<img align="left" alt="GitHub" width="26px" src="https://www.iconsdb.com/icons/preview/white/github-6-xxl.png" />
 <img align="left" alt="Terminal" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br/>
