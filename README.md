@@ -40,12 +40,13 @@
 
 <br/>
 
+---------------------------------------------------------------------------------------------------------------
 
 
 
+![rihemebh GitHub Stats](https://github-readme-stats.vercel.app/api?username=rihemebh&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 
-<!--![rihemebh GitHub Stats](https://github-readme-stats.vercel.app/api?username=rihemebh&show_icons=true)
-### 📕 Latest Blog Posts
+<!--### 📕 Latest Blog Posts
  BLOG-POST-LIST:START -->
 
 
