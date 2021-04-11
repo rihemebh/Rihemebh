@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on a Spring Boot and Reactjs project 
 - 🌱 I’m currently learning Docker and Node.js 
 -  💬 Ask me about anything 
-- 📫 How to reach me:  [<svg align="center" style="background-color:white" alt="codeSTACKr | LinkedIn" width="22px" src="https://iconsplace.com/wp-content/uploads/_icons/ffffff/256/png/linkedin-icon-18-256.png" />][linkedin]
+- 📫 How to reach me:  [<img align="center" alt="codeSTACKr | LinkedIn" width="22px" src="https://iconsplace.com/wp-content/uploads/_icons/ffffff/256/png/linkedin-icon-18-256.png" />][linkedin]
 <!-- - 👯 I’m looking to collaborate on
 - 🤔 I’m looking for help with ...
 - 😄 Pronouns: ...
