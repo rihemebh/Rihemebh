@@ -31,6 +31,7 @@
 <img align="left" alt="java" width="30px" src="https://icon-library.com/images/java-icon-png/java-icon-png-15.jpg" />
 <img align="left" alt="php" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/php-2038871-1720084.png" />
 <img align="left" alt="symphony" width="26px" src="https://iconape.com/wp-content/files/ds/99775/svg/symfony.svg" />
+<br />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
@@ -39,7 +40,7 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br/>
-<br/>
+
 
 
 
