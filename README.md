@@ -5,7 +5,7 @@
 -->
 
 - 🔭 I’m currently working on a Spring Boot and Reactjs project 
-- 🌱 I’m currently learning Docker and Node.js 
+- 🌱 I’m currently learning Docker <img alt="docker" width="20px" src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png" />and Node.js <img alt="Node.js" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 -  💬 Ask me about anything 
 - 📫 How to reach me: 
     -  [<img align="center" alt="codeSTACKr | LinkedIn" width="22px" src="https://iconsplace.com/wp-content/uploads/_icons/ffffff/256/png/linkedin-icon-18-256.png" />][linkedin] 
@@ -25,7 +25,7 @@
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Node.js" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+
 <img align="left" alt="springboot" width="25px" src="https://dzone.com/storage/temp/12434118-spring-boot-logo.png" />
 <img align="left" alt="c#" width="25px" src="https://iconape.com/wp-content/files/sh/51404/svg/c--4.svg" />
 <img align="left"  width="25px" alt="cpp" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png">
