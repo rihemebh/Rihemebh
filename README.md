@@ -27,7 +27,7 @@
 <img align="left" alt="springboot" width="26px" src="https://dzone.com/storage/temp/12434118-spring-boot-logo.png" />
 <img align="left" alt="c#" width="26px" src="https://iconape.com/wp-content/files/sh/51404/svg/c--4.svg" />
 <img align="left"  width="26px" alt="cpp" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png">
-<img align="left" alt="flutter" width="26px" src="https://teamextension.fr/dist/img/skills/flutter.png" />
+<img align="left" alt="flutter" width="25px" src="https://teamextension.fr/dist/img/skills/flutter.png" />
 <img align="left" alt="java" width="30px" src="https://icon-library.com/images/java-icon-png/java-icon-png-15.jpg" />
 <img align="left" alt="php" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/php-2038871-1720084.png" />
 <img align="left" alt="symphony" width="26px" src="https://iconape.com/wp-content/files/ds/99775/svg/symfony.svg" />
