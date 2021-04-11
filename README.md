@@ -45,10 +45,8 @@
 
 ----------------------------------------------------------------------------------------------------
 
-![rihemebh GitHub Stats](https://github-readme-stats.vercel.app/api?username=rihemebh&show_icons=true)
-
-
-<!--### 📕 Latest Blog Posts
+<!--![rihemebh GitHub Stats](https://github-readme-stats.vercel.app/api?username=rihemebh&show_icons=true)
+### 📕 Latest Blog Posts
  BLOG-POST-LIST:START -->
 
 
