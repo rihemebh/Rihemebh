@@ -1,5 +1,5 @@
 ### Hi there 👋
-#### I'm Riheme a Full stack developer and Cloud Engineering enthusiast 
+#### I'm Riheme a Software Engineering Student , Full-Stack Developer and Cloud Engineering Enthusiast 
 <!--
 **rihemebh/Rihemebh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
