@@ -5,7 +5,7 @@
 -->
 
 - 🔭 I’m currently working on a Spring Boot <img alt="springboot" width="20px" src="https://dzone.com/storage/temp/12434118-spring-boot-logo.png" /> and Reactjs <img  alt="React" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /> project 
-- 🌱 I’m currently learning Docker <img alt="docker" width="20px" src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png" /> and Node.js <img alt="Node.js" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+- 🌱 I’m currently learning Angular <img alt="angular" width="25px" src="https://user-images.githubusercontent.com/33090727/123556723-ba870d80-d784-11eb-89b4-6ad202470160.png" /> and Node.js <img alt="Node.js" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 -  💬 Ask me about anything 
 - 📫 How to reach me: 
     -  [<img align="center" alt="codeSTACKr | LinkedIn" width="22px" src="https://iconsplace.com/wp-content/uploads/_icons/ffffff/256/png/linkedin-icon-18-256.png" />][linkedin] 
