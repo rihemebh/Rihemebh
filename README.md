@@ -1,5 +1,10 @@
-### Hi there 👋
-#### I'm Riheme a Software Engineering Student , Full-Stack Developer and Cloud Engineering Enthusiast 
+## Hi there 👋
+
+### I'm Riheme a Software Engineering Student and a Full-Stack Developer
+ <a align="center" href="https://www.linkedin.com/in/rihemebenhassan/"><img align="center" alt="codeSTACKr | LinkedIn"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+ [<img align="center" alt="codeSTACKr | email"  src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />](mailto:rihemebenhassan@insat.u-carthage.tn?subject=[GitHub])
+
+
 <!--
 **rihemebh/Rihemebh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
@@ -7,15 +12,18 @@
 - 🔭 I’m currently working on a Spring Boot <img alt="springboot" width="20px" src="https://dzone.com/storage/temp/12434118-spring-boot-logo.png" /> and Reactjs <img  alt="React" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /> project 
 - 🌱 I’m currently learning Angular <img alt="angular" width="25px" src="https://user-images.githubusercontent.com/33090727/123556723-ba870d80-d784-11eb-89b4-6ad202470160.png" /> and Node.js <img alt="Node.js" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 -  💬 Ask me about anything 
-- 📫 How to reach me: 
-    -  [<img align="center" alt="codeSTACKr | LinkedIn" width="22px" src="https://iconsplace.com/wp-content/uploads/_icons/ffffff/256/png/linkedin-icon-18-256.png" />][linkedin] 
-    - rihemebenhassan@insat.u-carthage.tn
 <!-- - 👯 I’m looking to collaborate on
 - 🤔 I’m looking for help with ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...-->
+- 📫 Check my lastest article on medium
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@rihmebenhassan/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@rihmebenhassan/0" alt="Recent Article 0"> 
 
 
+--------------------------------------------------------------------------------------------------------------- 
+    
+    
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -40,7 +48,9 @@
 
 <br/>
 
+
 ---------------------------------------------------------------------------------------------------------------
+
 
 
 
