@@ -51,14 +51,18 @@
 <img align="left" alt="Terminal" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br/>
+ 
+
 
 
 ---------------------------------------------------------------------------------------------------------------
+ 
 
+ 
+ 
+ 
 
-
-|![rihemebh GitHub Stats](https://github-readme-stats.vercel.app/api?username=rihemebh&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rihemebh&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)|
-|---|---|
+![rihemebh GitHub Stats](https://github-readme-stats.vercel.app/api?username=rihemebh&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
  
 
 
