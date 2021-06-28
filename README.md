@@ -1,8 +1,9 @@
+
 ## Hi there 👋
+ ![Count](https://visitor-badge.laobi.icu/badge?page_id=rihemebh.rihemebh) [![Github](https://img.shields.io/github/followers/rihemebh?label=Follow&style=social)](https://github.com/rihemebh) 
+ 
 
 ### I'm Riheme a Software Engineering Student and a Full-Stack Developer
- <a align="center" href="https://www.linkedin.com/in/rihemebenhassan/"><img align="center" alt="codeSTACKr | LinkedIn"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
- [<img align="center" alt="codeSTACKr | email"  src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />](mailto:rihemebenhassan@insat.u-carthage.tn?subject=[GitHub])
 
 
 <!--
@@ -16,8 +17,11 @@
 - 🤔 I’m looking for help with ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...-->
-- 📫 Check my lastest article on medium
-
+- 📫 Reach me on :  <a align="center" href="https://www.linkedin.com/in/rihemebenhassan/"><img align="center" alt="codeSTACKr | LinkedIn"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+ [<img align="center" alt="codeSTACKr | email"  src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />](mailto:rihemebenhassan@insat.u-carthage.tn?subject=[GitHub])
+ 
+ - 📕 Latest article
+ 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@rihmebenhassan/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@rihmebenhassan/0" alt="Recent Article 0"> 
 
 
@@ -53,11 +57,17 @@
 
 
 
+|![rihemebh GitHub Stats](https://github-readme-stats.vercel.app/api?username=rihemebh&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rihemebh&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)|
+|---|---|
+ 
 
-![rihemebh GitHub Stats](https://github-readme-stats.vercel.app/api?username=rihemebh&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
+
 
 <!--### 📕 Latest Blog Posts
  BLOG-POST-LIST:START -->
 
 
 [linkedin]: https://www.linkedin.com/in/rihemebenhassan/
+ 
+ 
+
