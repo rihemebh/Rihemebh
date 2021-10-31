@@ -10,7 +10,7 @@
 **rihemebh/Rihemebh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working on a Reactjs <img  alt="React" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /> project 
+- 🔭 I’m currently working on a Angular and Nest.js project 
 - 🌱 I’m currently learning Angular <img alt="angular" width="25px" src="https://user-images.githubusercontent.com/33090727/123556723-ba870d80-d784-11eb-89b4-6ad202470160.png" /> and Node.js <img alt="Node.js" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 -  💬 Ask me about anything 
 <!-- - 👯 I’m looking to collaborate on
