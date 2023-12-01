@@ -3,7 +3,7 @@
  ![Count](https://visitor-badge.laobi.icu/badge?page_id=rihemebh.Rihemebh) [![Github](https://img.shields.io/github/followers/rihemebh?label=Follow&style=social)](https://github.com/rihemebh) 
  
 
-### I'm Riheme a Software Engineering Student and a Full-Stack Developer
+### I'm Riheme a Software Engineer
 
 
 <!--
